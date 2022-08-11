@@ -1,0 +1,14 @@
+C:\Users\DP168CW\OneDrive - EY\Desktop\poc\MStestPoc\Calculator\bin\Debug\netcoreapp3.1\Calculator.exe
+C:\Users\DP168CW\OneDrive - EY\Desktop\poc\MStestPoc\Calculator\bin\Debug\netcoreapp3.1\Calculator.deps.json
+C:\Users\DP168CW\OneDrive - EY\Desktop\poc\MStestPoc\Calculator\bin\Debug\netcoreapp3.1\Calculator.runtimeconfig.json
+C:\Users\DP168CW\OneDrive - EY\Desktop\poc\MStestPoc\Calculator\bin\Debug\netcoreapp3.1\Calculator.runtimeconfig.dev.json
+C:\Users\DP168CW\OneDrive - EY\Desktop\poc\MStestPoc\Calculator\bin\Debug\netcoreapp3.1\Calculator.dll
+C:\Users\DP168CW\OneDrive - EY\Desktop\poc\MStestPoc\Calculator\bin\Debug\netcoreapp3.1\Calculator.pdb
+C:\Users\DP168CW\OneDrive - EY\Desktop\poc\MStestPoc\Calculator\obj\Debug\netcoreapp3.1\Calculator.csproj.AssemblyReference.cache
+C:\Users\DP168CW\OneDrive - EY\Desktop\poc\MStestPoc\Calculator\obj\Debug\netcoreapp3.1\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DP168CW\OneDrive - EY\Desktop\poc\MStestPoc\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfoInputs.cache
+C:\Users\DP168CW\OneDrive - EY\Desktop\poc\MStestPoc\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfo.cs
+C:\Users\DP168CW\OneDrive - EY\Desktop\poc\MStestPoc\Calculator\obj\Debug\netcoreapp3.1\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\DP168CW\OneDrive - EY\Desktop\poc\MStestPoc\Calculator\obj\Debug\netcoreapp3.1\Calculator.dll
+C:\Users\DP168CW\OneDrive - EY\Desktop\poc\MStestPoc\Calculator\obj\Debug\netcoreapp3.1\Calculator.pdb
+C:\Users\DP168CW\OneDrive - EY\Desktop\poc\MStestPoc\Calculator\obj\Debug\netcoreapp3.1\Calculator.genruntimeconfig.cache
